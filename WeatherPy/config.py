@@ -1,2 +1,2 @@
 # Enter your API key
-api_key = "6940f768d50070f6053c752a11407829"
+api_key = "c02f0b50c6c1b02520b9963ddc6258d2"
